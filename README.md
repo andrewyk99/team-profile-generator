@@ -22,7 +22,7 @@ Screenshot of the command-line with the questions answered.
 ![screenshot of created html](./assets/images/website-ss.png?raw=true "Generated Website Screenshot")
 Screenshot of the website generated with the input from the previous screenshot of the command-line.
 
-Video Demo: 
+Video Demo: https://user-images.githubusercontent.com/98075801/164112489-af9833bd-079e-4835-85e1-070f46b3ed7e.mp4
 
 ## Test
 Tests for all the classes were created under the /__tests__ folder, labeled "Employee.test.js", "Engineer.test.js", "Intern.test.js", and "Manager.test.js". The tests are ran by Jest. Run "npm run test" in the command line to see that all pass. The tests check for proper object and method generation for all four classes.
